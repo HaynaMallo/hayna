@@ -1,0 +1,11 @@
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\HAYNARESTAURANT.Domain.dll.config
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\HAYNARESTAURANT.Domain.dll
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\HAYNARESTAURANT.Domain.pdb
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\EntityFramework.dll
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\EntityFramework.xml
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\obj\Debug\HAYNARESTAURANT.Domain.csprojResolveAssemblyReference.cache
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\obj\Debug\HAYNARESTAURANT.Domain.csproj.CoreCompileInputs.cache
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\obj\Debug\HAYNARESTAURANT.Domain.dll
+c:\users\comlabpc4\source\repos\HAYNARESTAURANT.POS\HAYNARESTAURANT.Domain\obj\Debug\HAYNARESTAURANT.Domain.pdb
